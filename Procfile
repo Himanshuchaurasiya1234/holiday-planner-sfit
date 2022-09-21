@@ -1,1 +1,1 @@
-web: gunicorn --chdir modules app:app
+web: gunicorn app:app
