@@ -24,7 +24,4 @@ necessary information. Tourists can follow and track there plan during trip and 
 Backend is Developed in Python using Flask framework. Frontend is developed in HTML, CSS, JS using Bootstrap framework. 'Postgres' is used as database. Flask Blueprint and
 Services-Model-Repository pattern is used to make code Modular and extendible. Website is currently hosted on Heroku. You can find it at  https://tripindia.herokuapp.com . Various libraries like Flask-mail, Bcrypt, 
 Itsdangerous, etc. are used to provide different functionalities of application.
-
-# Contact Us
-
-We are currently first year B-Tech undergraduate students at IIT Jodhpur. You can contact us at tripindia.iitj@gmail.com . 
+(click here to open)[https://himanshuchaurasiya1234.github.io/holiday-planner-sfit/]
